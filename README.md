@@ -24,5 +24,5 @@ cargo run </br>
 If you would like more help, please visit: https://doc.rust-lang.org/rust-by-example/
 </br>
 </br>
-After debugging, please return to the email we sent you and fill out the survey. </br>
+After debugging, please fill out this survey: https://forms.gle/ihCA3rkjLxhW9ScNA. </br>
 Happy Debugging!
